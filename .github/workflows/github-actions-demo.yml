@@ -15,7 +15,7 @@ on:
         type: environment
         required: true
 
-  jobs:
+jobs:
   Build:
     runs-on: ubuntu-latest
     steps:
